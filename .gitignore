@@ -1,1 +1,4 @@
 .idea
+weatherdetector/weather/__pycache__/
+weatherdetector/weather/migrations/__pycache__/
+weatherdetector/weatherdetector/__pycache__/
